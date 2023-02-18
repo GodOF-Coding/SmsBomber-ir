@@ -1,3 +1,4 @@
 # Required libraries
 requests 2.28.2    ====> pip install requests
 user-agents 2.2.0  ====> pip install user-agents
+rich 13.3.1        ====> pip install rich
